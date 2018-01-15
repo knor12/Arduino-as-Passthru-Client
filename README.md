@@ -1,2 +1,3 @@
 # Arduino-as-Passthru-Client
-This is a VB class that implements the client  side of Arduino-as-Passthru, it gives a VB programmer  the ability to access Arduino capabilities from VB this includes SPI, I2C, Digital write /read, PWM, EPROM access 
+This is VB.net code that implements the client  side of Arduino-as-Passthru, it gives a VB programmer  the ability to access Arduino capabilities from VB code, this includes SPI, I2C, Digital write/read, PWM, EPROM write/read. a driver impelemtation of the current and voltage sensor chip IN219 is provided for refernece.  
+This was tested on Arduino Mega2560, for arduino side code refer to pero: https://github.com/knor12/Arduino-as-Passthru.git
